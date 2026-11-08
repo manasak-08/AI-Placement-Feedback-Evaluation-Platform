@@ -24,7 +24,7 @@ from src.analytics import dashboard
 # =====================================================
 
 st.set_page_config(
-    page_title="InsightAI",
+    page_title="Nexora AI",
     page_icon="💡",
     layout="wide"
 )
@@ -158,7 +158,7 @@ div[data-testid="stMetric"] {
 
 with st.sidebar:
 
-    st.markdown("# 💡 InsightAI")
+    st.markdown("# 💡 Nexora AI")
 
     st.caption("AI response quality & feedback intelligence")
 
@@ -195,7 +195,7 @@ with st.sidebar:
 
 st.markdown("""
 <div class="hero">
-    <h1>💡 InsightAI</h1>
+    <h1>💡 Nexora AI</h1>
     <p>
         Turn AI conversations into measurable insights.
         Analyze response quality, collect feedback,
